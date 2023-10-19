@@ -18,9 +18,9 @@ Users should be able to:
 
 ## Screenshots 📷
 
-| Mobile                                            | Desktop                                            |
-| ------------------------------------------------- | -------------------------------------------------- |
-| ![](./screenshort/mobile-preview.png)            | ![](./screenshort/desktop-preview.png)              |
+| Mobile                                            | Tablet                                             | Desktop                                            |
+| ------------------------------------------------- | -------------------------------------------------  | -------------------------------------------------- |
+| ![](./screenshort/mobile-preview.png)             | ![](./screenshort/tablet-preview.png)              | ![](./screenshort/desktop-preview.png)             |
 
 ## Live Demo 🚀
 
